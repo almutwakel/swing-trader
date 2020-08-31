@@ -3,7 +3,7 @@
 
 Built using Conda Python 3.7: 7/16/20 - 8/31/20
 
-![Screenshot](screenshots/window.png)
+![Screenshot](screenshots/window.png){:height="50%" width="50%"}
 
 <h4> How does the algorithm work? </h4>
 
