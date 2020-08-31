@@ -1,0 +1,3 @@
+('C:\\Users\\almut\\Documents\\py\\StockPredictor\\build\\AI Stock '
+ 'Prediction\\PYZ-00.pyz',
+ [])
