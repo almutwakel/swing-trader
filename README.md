@@ -2,8 +2,9 @@
 <h3> Almutwakel Hassan </h3>
 
 Built using Conda Python 3.7: 7/16/20 - 8/31/20
-
+![Screenshot](screenshots/window.png){:class="img-responsive"}
 ![Screenshot](screenshots/window.png){:height="50%" width="50%"}
+![Screenshot](screenshots/window.png){:height="700px" width="400px"}
 
 <h4> How does the algorithm work? </h4>
 
