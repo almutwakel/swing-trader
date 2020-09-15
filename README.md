@@ -1,7 +1,7 @@
 # Machine Learning Stock Trading Algorithm 
 <h3> Almutwakel Hassan </h3>
 
-Built using Conda Python 3.7: 7/16/20 - 8/31/20
+Built using Conda Python 3.7: 7/16/20 - 8/31/20. Original work.
 
 <img src="/screenshots/window.png" width="401" height="492" />
 
